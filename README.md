@@ -1,2 +1,13 @@
-# Flask
-🚀 Python Portfolio built with Flask to showcase projects focused on automation, Discord bots, and web applications. This project demonstrates backend skills, clean code structure, and practical integrations, serving as a foundation for professional and scalable Python applications.
+# Python Portfolio 🚀
+
+Personal portfolio built with Python and Flask.
+
+## 🔧 Technologies
+- Python
+- Flask
+- HTML/CSS
+
+## ▶️ How to run
+```bash
+pip install -r requirements.txt
+python app.py
